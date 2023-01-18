@@ -51,6 +51,12 @@ async function chartIt(){
           stacked: true
         },
         y: {
+          ticks: {
+            // Include a dollar sign in the ticks
+            callback: function(value, index, ticks) {
+                return Chart.Ticks.formatters.numeric.apply(this, [value, index, ticks]) + ' Hectacres';
+            }
+          },
           stacked: true,
           beginAtZero: true
         }
