@@ -22,10 +22,13 @@ Asia,,2015,2235000
 Australia,AUS,1990,626200
 Australia,AUS,2000,632300
 Australia,AUS,2010,416840
+Australia,AUS,2015,0
 Austria,AUT,1990,3450
 Austria,AUT,2000,7790
 Austria,AUT,2010,5800
 Austria,AUT,2015,5810
+Azerbaijan,AZE,1990,0
+Azerbaijan,AZE,2000,0
 Azerbaijan,AZE,2010,81640
 Azerbaijan,AZE,2015,86360
 Bahrain,BHR,1990,10
@@ -36,9 +39,12 @@ Bangladesh,BGD,1990,7500
 Bangladesh,BGD,2000,3200
 Bangladesh,BGD,2010,18190
 Bangladesh,BGD,2015,0
+Belarus,BLR,1990,0
 Belarus,BLR,2000,7200
 Belarus,BLR,2010,4100
 Belarus,BLR,2015,3500
+Belgium,BEL,1990,0
+Belgium,BEL,2000,0
 Belgium,BEL,2010,1810
 Belgium,BEL,2015,1500
 Belize,BLZ,1990,14070
@@ -73,6 +79,7 @@ Canada,CAN,1990,54420
 Canada,CAN,2000,50450
 Canada,CAN,2010,41300
 Canada,CAN,2015,37520
+Cape Verde,CPV,1990,0
 Cape Verde,CPV,2000,2840
 Cape Verde,CPV,2010,1900
 Cape Verde,CPV,2015,820
@@ -104,6 +111,7 @@ Costa Rica,CRI,1990,9790
 Costa Rica,CRI,2000,2650
 Costa Rica,CRI,2010,0
 Costa Rica,CRI,2015,0
+Croatia,HRV,1990,0
 Croatia,HRV,2000,330
 Croatia,HRV,2010,90
 Croatia,HRV,2015,50
@@ -122,6 +130,7 @@ Djibouti,DJI,2015,160
 Dominican Republic,DOM,1990,620
 Dominican Republic,DOM,2000,250
 Dominican Republic,DOM,2010,18490
+Dominican Republic,DOM,2015,18490
 Ecuador,ECU,1990,129940
 Ecuador,ECU,2000,105080
 Ecuador,ECU,2010,96130
@@ -130,12 +139,15 @@ El Salvador,SLV,1990,4500
 El Salvador,SLV,2000,4500
 El Salvador,SLV,2010,4500
 El Salvador,SLV,2015,4500
+Equatorial Guinea,GNQ,2000,0
 Equatorial Guinea,GNQ,2000,8360
 Equatorial Guinea,GNQ,2010,8360
 Equatorial Guinea,GNQ,2015,8360
+Estonia,EST,1990,0
 Estonia,EST,2000,6340
 Estonia,EST,2010,11230
 Estonia,EST,2015,5010
+Ethiopia,ETH,1990,92000
 Ethiopia,ETH,2000,92000
 Ethiopia,ETH,2010,92000
 Ethiopia,ETH,2015,92000
@@ -154,6 +166,7 @@ Faroe Islands,,2015,0
 Finland,FIN,1990,12180
 Finland,FIN,2000,2090
 Finland,FIN,2010,540
+Finland,FIN,2015,0
 French Guyana,,1990,5560
 French Guyana,,2000,5540
 French Guyana,,2010,5650
@@ -162,6 +175,7 @@ Gabon,GAB,1990,10240
 Gabon,GAB,2000,14740
 Gabon,GAB,2010,19250
 Gabon,GAB,2015,19250
+Georgia,GEO,1990,0
 Georgia,GEO,2000,0
 Georgia,GEO,2010,0
 Georgia,GEO,2015,0
@@ -186,6 +200,9 @@ Guatemala,GTM,2000,48660
 Guatemala,GTM,2010,27360
 Guatemala,GTM,2015,11600
 Guinea,GIN,1990,46700
+Guinea,GIN,2000,0
+Guinea,GIN,2010,0
+Guinea,GIN,2015,0
 Guyana,GUY,1990,3790
 Guyana,GUY,2000,4440
 Guyana,GUY,2010,11690
@@ -207,6 +224,7 @@ India,IND,2000,629500
 India,IND,2010,668400
 India,IND,2015,668400
 Indonesia,IDN,1990,2526000
+Indonesia,IDN,2010,2526000
 Indonesia,IDN,2000,969000
 Indonesia,IDN,2015,650000
 Iraq,IRQ,1990,0
@@ -221,7 +239,10 @@ Isle of Man,IMN,1990,0
 Isle of Man,IMN,2000,0
 Isle of Man,IMN,2010,0
 Isle of Man,IMN,2015,0
+Italy,ITA,1990,3690
+Italy,ITA,2000,3690
 Italy,ITA,2010,3690
+Italy,ITA,2015,3690
 Jamaica,JAM,1990,890
 Jamaica,JAM,2000,680
 Jamaica,JAM,2010,620
@@ -230,9 +251,11 @@ Kuwait,KWT,1990,0
 Kuwait,KWT,2000,0
 Kuwait,KWT,2010,0
 Kuwait,KWT,2015,0
+Kyrgyzstan,KGZ,1990,0
 Kyrgyzstan,KGZ,2000,0
 Kyrgyzstan,KGZ,2010,0
 Kyrgyzstan,KGZ,2015,0
+Latvia,LVA,1990,400
 Latvia,LVA,2000,400
 Latvia,LVA,2010,310
 Latvia,LVA,2015,360
@@ -244,10 +267,14 @@ Liechtenstein,LIE,1990,210
 Liechtenstein,LIE,2000,210
 Liechtenstein,LIE,2010,210
 Liechtenstein,LIE,2015,210
+Lithuania,LTU,1990,140
 Lithuania,LTU,2000,140
 Lithuania,LTU,2010,140
 Lithuania,LTU,2015,140
 Madagascar,MDG,1990,70500
+Madagascar,MDG,2000,70500
+Madagascar,MDG,2010,70500
+Madagascar,MDG,2015,70500
 Malawi,MWI,1990,42000
 Malawi,MWI,2000,42000
 Malawi,MWI,2010,42000
@@ -280,6 +307,7 @@ Mexico,MEX,1990,685810
 Mexico,MEX,2000,424850
 Mexico,MEX,2010,211610
 Mexico,MEX,2015,165820
+Moldova,MDA,1990,1800
 Moldova,MDA,2000,1800
 Moldova,MDA,2010,930
 Moldova,MDA,2015,340
@@ -291,6 +319,8 @@ Mongolia,MNG,1990,9060
 Mongolia,MNG,2000,8250
 Mongolia,MNG,2010,1520
 Mongolia,MNG,2015,1520
+Montenegro,MNE,1990,28200
+Montenegro,MNE,2000,28200
 Montenegro,MNE,2010,28200
 Montenegro,MNE,2015,12000
 Morocco,MAR,1990,780
@@ -365,14 +395,19 @@ Poland,POL,1990,510
 Poland,POL,2000,580
 Poland,POL,2010,620
 Poland,POL,2015,770
+Portugal,PRT,1990,39600
+Portugal,PRT,2000,39600
 Portugal,PRT,2010,39600
+Portugal,PRT,2015,39600
 Qatar,QAT,1990,0
 Qatar,QAT,2000,0
 Qatar,QAT,2010,0
 Qatar,QAT,2015,0
+Romania,ROU,1990,180
 Romania,ROU,2000,180
 Romania,ROU,2010,110
 Romania,ROU,2015,20
+Russia,RUS,1990,0
 Russia,RUS,2000,0
 Russia,RUS,2010,41030
 Russia,RUS,2015,0
@@ -384,14 +419,19 @@ Sao Tome and Principe,STP,1990,30
 Sao Tome and Principe,STP,2000,30
 Sao Tome and Principe,STP,2010,620
 Sao Tome and Principe,STP,2015,620
+Senegal,SEN,1990,51000
+Senegal,SEN,2000,51000
 Senegal,SEN,2010,51000
 Senegal,SEN,2015,51000
+Serbia,SRB,1990,90
+Serbia,SRB,2000,90
 Serbia,SRB,2010,90
 Serbia,SRB,2015,40
 Singapore,SGP,1990,280
 Singapore,SGP,2000,140
 Singapore,SGP,2010,300
 Singapore,SGP,2015,240
+Slovenia,SVN,1990,300
 Slovenia,SVN,2000,380
 Slovenia,SVN,2010,300
 Slovenia,SVN,2015,2029.9999999999998
@@ -411,9 +451,13 @@ South Korea,KOR,1990,7500
 South Korea,KOR,2000,8900
 South Korea,KOR,2010,10000
 South Korea,KOR,2015,10000
+Spain,ESP,1990,5700
 Spain,ESP,2000,5700
 Spain,ESP,2010,1980
 Spain,ESP,2015,3740
+Sudan,SDN,1990,264000
+Sudan,SDN,2000,264000
+Sudan,SDN,2010,264000
 Sudan,SDN,2015,264000
 Suriname,SUR,1990,3680
 Suriname,SUR,2000,4110
@@ -430,6 +474,7 @@ Switzerland,CHE,2015,1340
 Syria,SYR,1990,77250
 Syria,SYR,2000,46180
 Syria,SYR,2010,11940
+Syria,SYR,2015,11940
 Tanzania,TZA,1990,400000
 Tanzania,TZA,2000,400000
 Tanzania,TZA,2010,372000
@@ -458,16 +503,23 @@ Uganda,UGA,1990,51090
 Uganda,UGA,2000,51090
 Uganda,UGA,2010,51090
 Uganda,UGA,2015,51090
+Ukraine,UKR,1990,0
 Ukraine,UKR,2000,1030
 Ukraine,UKR,2010,400
 Ukraine,UKR,2015,100
+United Kingdom,GBR,1990,0
 United Kingdom,GBR,2000,200
 United Kingdom,GBR,2010,500
+United Kingdom,GBR,2015,0
 United States,USA,1990,0
 United States,USA,2000,0
 United States,USA,2010,0
+United States,USA,2015,0
+Uruguay,URY,1990,0
 Uruguay,URY,2000,660
 Uruguay,URY,2010,1830
+Uruguay,URY,2015,0
+Uzbekistan,UZB,1990,0
 Uzbekistan,UZB,2000,5000
 Uzbekistan,UZB,2010,1040
 Uzbekistan,UZB,2015,14150
@@ -487,6 +539,7 @@ World,OWID_WRL,1990,15818000
 World,OWID_WRL,2000,15117000
 World,OWID_WRL,2010,11801000
 World,OWID_WRL,2015,10150000
+Zambia,ZMB,1990,0
 Zambia,ZMB,2000,36250
 Zambia,ZMB,2010,189680
 Zambia,ZMB,2015,189710

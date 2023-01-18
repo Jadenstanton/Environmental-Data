@@ -93,5 +93,5 @@ table.forEach(row => {
 
 xlabels.forEach((item, index) => { if (result.indexOf(item) === -1) result.push(item) });
 
-return {result,years, ylabels1990, ylabels2000, ylabels2010, ylabels2015};
+return {result, years, ylabels1990, ylabels2000, ylabels2010, ylabels2015};
 }
